@@ -14,17 +14,20 @@
 
 
 .banner {
-    margin-left: 42%;
+   
     margin-top: 10%;
     padding: 10px 10px 10px 10px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
     width: 300px;
+    margin: auto;
+    
  
 }
 
 body {
     background-color: hsl(212, 45%, 89%);
+    margin-top: 210px;
 }
 
 h1, p {
